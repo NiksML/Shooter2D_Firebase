@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472048820979",
+    "project_id": "shooting-7b404",
+    "storage_bucket": "shooting-7b404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472048820979:android:70425199db3a9c53ad4d86",
+        "android_client_info": {
+          "package_name": "com.Nikita.Firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHUAh0DE6ugRfQ0bhjY1-oPCuoeTR0mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
